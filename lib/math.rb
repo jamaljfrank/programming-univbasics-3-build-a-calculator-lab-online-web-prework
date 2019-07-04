@@ -1,13 +1,13 @@
 def addition(num1, num2)
   sum = num1 + num2
   puts sum
-  return sum
+
 end
 
 def subtraction(num1, num2)
   difference = num1 - num2
   puts difference
-  return difference
+  
 
 end
 

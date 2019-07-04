@@ -13,7 +13,7 @@ end
 
 def division(num1, num2)
   quotient = num1 / num2
-p quotient
+  puts quotient
 
 end
 

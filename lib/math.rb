@@ -23,18 +23,20 @@ end
 def multiplication(num1, num2)
   product = num1 * num2
   puts product
-  return 
+  return product
 
 end
 
 def modulo(num1, num2)
   modulo = num1 % num2
   puts modulo
+  return modulo
 
 end
 
 def square_root(num)
   num = Math.sqrt(num)
   puts num
+  return num
 
 end
